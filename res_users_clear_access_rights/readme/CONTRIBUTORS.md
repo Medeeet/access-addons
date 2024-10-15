@@ -1,0 +1,5 @@
+- Stanislav Krotov (https://github.com/ufaks)
+- Ivan Yelizariev (https://github.com/yelizariev)
+- Ilya Ilchenko (https://github.com/mentalko)
+- Artem Rafailov (https://github.com/Ommo73)
+- Eugene Molotov (https://github.com/em230418)
